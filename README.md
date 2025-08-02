@@ -21,6 +21,7 @@ Includes:
 | `08_dml_operations.sql` | INSERT, UPDATE, DELETE, SET NULL |
 | `09_advanced_queries.sql` | Ranking, duplicates, percent, top scorers |
 | `10_backup.sql` | Backup using INSERT INTO SELECT |
+| `_50_sql_practice_questions.sql`|  Practice questions with answers
 | `90_sql_practice_questions.sql` | Practice questions with answers |
 
 ## 📌 Table Structure
